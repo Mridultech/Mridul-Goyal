@@ -1,121 +1,109 @@
-👋 Hi, I’m Mridul
+# 👋 Hi, I'm Mridul  
 
-Aspiring Data Scientist | Data Analysis • SQL • Python • Power BI
+### 🚀 Aspiring Data Scientist | Data Analysis • SQL • Python • Power BI
 
-I am currently a learner working toward Data Science roles, with a strong focus on data cleaning, exploratory data analysis (EDA), and SQL-based analysis.
-I enjoy working with messy, real-world datasets and converting raw data into clear, decision-oriented insights.
+I am a learner actively working toward **Data Science roles**, with a strong foundation in  
+**data cleaning, exploratory data analysis (EDA), and SQL-based analysis**.
 
-My approach is fundamentals-first: mastering data understanding, cleaning, and analysis before going deep into advanced modeling.
+I enjoy working with **messy, real-world datasets** and converting raw data into  
+**clear, actionable insights** that support decision-making.
 
-🧠 What I’m Currently Focused On
+I follow a **fundamentals-first approach** — mastering data understanding and analysis  
+before going deep into advanced machine learning.
 
-Strengthening data cleaning & EDA skills using Python
+---
 
-Solving business-style analytical problems using SQL
+## 🧠 Current Focus
+- 🧹 Data Cleaning & Exploratory Data Analysis (EDA)
+- 🧮 SQL-based business analysis
+- 📊 Insightful dashboards using Power BI
+- 📐 Learning Statistics for Data Analysis (basic level)
+- 🤖 Gradual exposure to Machine Learning concepts
 
-Building clear dashboards to communicate insights
+---
 
-Learning statistics for data analysis (currently at a basic level)
+## 🛠️ Technical Skills
 
-Gradually expanding into machine learning concepts
+### 📊 Data Analysis
+- Data Cleaning & Preprocessing  
+- Exploratory Data Analysis (EDA)  
+- Data Interpretation & Insight Generation  
 
-🛠️ Technical Skills
+### 💻 Programming & Tools
+- **Python**: Pandas, NumPy, Matplotlib  
+- **SQL**: Joins, Aggregations, Subqueries  
+- **Power BI**: Dashboards, Data Modeling  
+- **Excel**: Analysis & Reporting  
 
-Data Analysis
+### 📚 Foundations
+- Basic Statistics for Data Analysis  
+- Data Visualization & Storytelling  
 
-Data Cleaning & Preprocessing
+---
 
-Exploratory Data Analysis (EDA)
+## 📂 Projects
 
-Insight Generation & Data Interpretation
+### 📊 Sales Dashboard — Power BI
+- Built interactive dashboards to analyze sales performance  
+- Cleaned and transformed raw transactional data  
+- Identified top products, regions, and trends for decision-making  
 
-Programming & Tools
+---
 
-Python (Pandas, NumPy, Matplotlib)
+### 🧹 Data Cleaning Case Studies (Real-World Datasets)
+- Assessed data quality in messy datasets  
+- Handled missing values, inconsistent categories, and data type issues  
+- Prepared clean, analysis-ready datasets  
 
-SQL (Joins, Aggregations, Subqueries)
+---
 
-Power BI (Interactive Dashboards, Data Modeling)
+### 🛒 SQL E-commerce Case Study
+- Solved business problems using joins, aggregations, and subqueries  
+- Analyzed customer behavior and revenue patterns  
+- Focused on clean, readable, and logical SQL queries  
 
-Excel (Analysis & Reporting)
+---
 
-Foundations
+### 📉 Churn Prediction (Learning Project)
+- Performed EDA to understand churn drivers  
+- Conducted feature understanding and preprocessing  
+- Built baseline ML models for learning purposes  
 
-Basic Statistics for Data Analysis
+---
 
-Data Visualization & Storytelling
+### ⏳ Time Series Forecasting
+- Analyzed trends and seasonality in historical data  
+- Applied basic forecasting techniques  
 
-📂 Projects
-📊 Sales Dashboard — Power BI
+---
 
-Built an interactive dashboard to analyze sales performance across categories and regions
+### 🧩 Customer Segmentation
+- Explored customer behavior patterns  
+- Applied clustering concepts for segmentation  
 
-Cleaned and transformed raw transactional data for accurate reporting
+---
 
-Enabled identification of top-performing products and trends
+## 📈 How I Work
+- Hands-on learning with real datasets  
+- Preference for clarity over unnecessary complexity  
+- Strong belief that **good analysis > blind algorithm usage**  
+- Continuous iteration and improvement of projects  
 
-🧹 Data Cleaning Case Studies (Real-World Datasets)
+---
 
-Performed data quality assessment on messy datasets
+## 🌱 Learning Goals
+- Strengthen statistics for data science  
+- Improve SQL depth (CTEs, performance concepts)  
+- Build end-to-end data science projects  
+- Work consistently with unclean, real-world datasets  
 
-Handled missing values, inconsistent categories, and incorrect data types
+---
 
-Prepared clean, analysis-ready datasets for downstream use
+## 📫 Connect With Me
+- 🔗 LinkedIn: https://www.linkedin.com/in/mridul-goyal-7221581b3/  
+- 📧 Email: mridulgoyal665@gmail.com  
 
-🛒 SQL E-commerce Case Study
+---
 
-Solved business questions using joins, aggregations, and subqueries
-
-Analyzed customer behavior, order trends, and revenue patterns
-
-Focused on writing clean and readable SQL queries
-
-📉 Churn Prediction (Learning Project)
-
-Conducted exploratory data analysis to understand churn drivers
-
-Performed feature understanding and preprocessing
-
-Built baseline machine learning models for learning purposes
-
-⏳ Time Series Forecasting
-
-Analyzed historical data to understand trends and seasonality
-
-Applied basic forecasting techniques to predict future values
-
-🧩 Customer Segmentation
-
-Explored customer behavior patterns using data analysis techniques
-
-Applied clustering concepts to group similar customers
-
-📈 How I Work
-
-I prefer hands-on learning through real data
-
-I focus on clarity over complexity
-
-I believe strong analysis is more valuable than blindly applying algorithms
-
-I document my learning and improve projects iteratively
-
-🌱 Current Learning Goals
-
-Strengthen statistics for data science
-
-Improve SQL depth (CTEs, performance concepts)
-
-Build end-to-end data science projects
-
-Work consistently with real-world, unclean datasets
-
-📫 Connect With Me
-
-LinkedIn: https://www.linkedin.com/in/mridul-goyal-7221581b3/
-
-Email: mridulgoyal665@gmail.com
-
-⭐ Note
-
-This GitHub reflects my learning journey toward Data Science, with an emphasis on strong fundamentals, honest skill representation, and continuous improvement.
+⭐ *This GitHub reflects my learning journey toward Data Science —  
+focused on strong fundamentals, honest skill representation, and continuous growth.*
